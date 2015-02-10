@@ -1,0 +1,98 @@
+中古漢語拼音v1.23
+
+（推薦使用字符寬度固定的字體，如“Fixedsys”或“宋体”來觀看本文）
+
+聲母部分：
+
+全清    次清    全濁    次濁    清      濁
+
+幫p     滂ph    並b     明m             
+端t     透th    定d     泥n             
+知tr    徹thr   澄dr    娘nr            
+精c     清ch    從z             心s     邪zs
+莊cr    初chr   崇zr            生sr    俟zsr
+章cj    昌chj   常zj    日nj    書sj    船zsj
+見k     溪kh    群g     疑ng
+影q                  云(無)以j  曉h     匣gh
+                        來l
+
+
+喻三（云母）以韻母中的i或y開頭。
+
+韻母部分：
+
+
+       一等         二等                 三等                 四等
+果攝：
+  開  歌 a                              戈 ia
+  合  戈 ua                             戈 ya
+假攝：
+  開               麻 ra                麻 ia
+  合               麻 rua
+遇攝：
+  --  模 o                           魚 io  虞 yo
+蟹攝：
+  開  咍 ai     佳 re  皆rai                                  齊 e
+  合  灰 uai   佳 rue  皆ruai                                 齊 ue
+  開  泰 ad       夬 rad            祭 *ied  廢 iad
+  合  泰 uad      夬 ruad           祭 *yed  廢 yad
+止攝：
+  開                           支 *ie  脂 *ii  之 i  微 ioi
+  合                             支 *ye  脂 *yi  微 yoi
+效攝：
+  --  豪 au        肴 rau                宵 *ieu              蕭 eu
+流攝：
+  --  侯 u                             尤 iu  幽 y
+咸攝：
+  開  談 am     銜 ram  咸 rem       鹽 *iem  嚴 iam          添 em
+  合                                      凡 yam
+  開  覃 om
+深攝：
+  開                                      侵 *im
+山攝：
+  開  寒 an     刪 ran  山 ren        仙 *ien  元 ian         先 en
+  合  桓 uan   刪 ruan  山 ruen       仙 *yen  元 yan         先 uen
+臻攝：
+  開  痕 on                           真臻 *in  欣 ion
+  合  魂 uon                          真諄 *yn  文 yon
+宕攝：
+  開  唐 ang                              陽 iang
+  合  唐 uang                             陽 yang
+梗攝：
+  開           庚 rang  耕 reng         庚清 *ieng            青 eng
+  合          庚 ruang  耕 rueng        庚清 *yeng            青 ueng
+曾攝：
+  開  登 ong                              蒸 ing
+  合  登 uong                             職 yk
+通攝：
+  --  東 ung                              鍾 yung
+  --  冬 uung                             東 iung
+江攝：
+  --                江 rung
+
+標*的是脣牙喉音有重紐的三等韻（庚韻和“碧”作重紐三等，清韻作重紐四等）。
+韻尾：
+i,u,d,m,n,ng,p,t,k
+d用於祭、泰、夬、廢四個去聲韻。
+p,t,k分別爲m,n,ng韻的入聲。
+
+
+聲調及其它：
+
+平聲、入聲和以-d結尾的去聲字不標聲調。
+上聲標-x，不以-d結尾的去聲標-h。
+
+聲母和韻母的相拼時的拼寫規則：
+
+1.帶r的聲母（知組和莊組）和二等韻（以r開始）相拼時省一个r。
+  如“濁”dr - r + ruk = druk
+2.唇牙喉音（包括p,ph,b,m,k,kh,g,ng,',h）的重紐A類（即重紐四等，包括諄韻）在聲母韻母閒加一个j。
+  如“一”（影母重紐四等質韻）q + j + it = qjit
+3.在聲介母的j（包括以母、章組、日母和重紐四等）和開口三等韻（以i開始）相拼時，除脂之真蒸侵五韻（此五韻的i除代表三等韻外，也兼表示主要元音）外，j後面的i可以省去。
+  如“如”（日母魚韻）nj - i + io = njo
+  但“脂”（章母脂韻）cj + ii = cjii
+
+特殊：
+
+若聲母與韻母搭配不正常，可以用'分隔聲韻母。如“茝”（昌母海韻）chj'aix。
+

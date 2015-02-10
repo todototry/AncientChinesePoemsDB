@@ -1,0 +1,3 @@
+该查询是基于asp的网页查询，请先安装IIS，然后将文件放入主目录，在IE中输入http://localhost/cha.htm即可。
+也可以直接查看数据库文件。咨询：jylinxi@126.com
+QQ157788584
